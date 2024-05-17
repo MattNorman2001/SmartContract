@@ -31,7 +31,7 @@ Once the contract is deployed, you can interact with it by calling the addProduc
 click to call.
 ## Authors
 Matt Norman A. Guerra
-8212366@ntc.edu
+8212366@ntc.edu.ph
 
 
 ## License
